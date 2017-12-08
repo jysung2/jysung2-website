@@ -1,5 +1,13 @@
 ## Welcome to Jae's Pages
 
+Jae Yoon Sung
+
+jysung2@illinois.edu
+
+571-550-056x
+
+Hello, my name is Jae Yoon Sung and I am an undergradute mathematics student at the Universrity of Illinois at Urbana-Champaign.
+
 You can use the [editor on GitHub](https://github.com/jysung2/jysung2-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
