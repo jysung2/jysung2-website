@@ -1,4 +1,5 @@
 ## Welcome to Jae's Pages
+![images](https://user-images.githubusercontent.com/32148061/33755707-b822fcce-dbb7-11e7-94fc-c570ea4589d2.jpg)
 
 **#Jae Yoon Sung**
 
@@ -39,11 +40,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 ![black](https://user-images.githubusercontent.com/32148061/33755651-754a2d46-dbb7-11e7-8818-68cf54e0bee4.jpg)
 ![aa](https://user-images.githubusercontent.com/32148061/33755702-b6f30380-dbb7-11e7-8ab9-e6ab61007405.jpg)
-![images](https://user-images.githubusercontent.com/32148061/33755707-b822fcce-dbb7-11e7-94fc-c570ea4589d2.jpg)
 
-
-
-![125](https://user-images.githubusercontent.com/32148061/33755306-c6a4888c-dbb5-11e7-848b-e657dec765b9.jpeg)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jysung2/jysung2-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
