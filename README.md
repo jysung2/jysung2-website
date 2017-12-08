@@ -38,7 +38,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-![image](![125](https://user-images.githubusercontent.com/32148061/33755306-c6a4888c-dbb5-11e7-848b-e657dec765b9.jpeg))
+![125](https://user-images.githubusercontent.com/32148061/33755306-c6a4888c-dbb5-11e7-848b-e657dec765b9.jpeg)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jysung2/jysung2-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
