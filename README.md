@@ -1,10 +1,10 @@
 ## Welcome to Jae's Pages
 
-Jae Yoon Sung
+#Jae Yoon Sung
 
-jysung2@illinois.edu
+#jysung2@illinois.edu
 
-571-550-056x
+#571-550-056x
 
 Hello, my name is Jae Yoon Sung and I am an undergradute mathematics student at the Universrity of Illinois at Urbana-Champaign.
 
