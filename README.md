@@ -16,9 +16,8 @@ Hello, my name is Jae Yoon Sung and I am an undergradute mathematics student at 
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### BLack the best
+### Black the best
 ![black](https://user-images.githubusercontent.com/32148061/33755651-754a2d46-dbb7-11e7-8818-68cf54e0bee4.jpg)
 ![aa](https://user-images.githubusercontent.com/32148061/33755702-b6f30380-dbb7-11e7-8ab9-e6ab61007405.jpg)
 
