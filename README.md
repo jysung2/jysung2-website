@@ -1,10 +1,10 @@
 ## Welcome to Jae's Pages
 
-#Jae Yoon Sung
+**#Jae Yoon Sung**
 
-#jysung2@illinois.edu
+**#jysung2@illinois.edu**
 
-#571-550-056x
+**#571-550-056x**
 
 Hello, my name is Jae Yoon Sung and I am an undergradute mathematics student at the Universrity of Illinois at Urbana-Champaign.
 
@@ -37,6 +37,8 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
+
+![image](
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jysung2/jysung2-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
