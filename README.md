@@ -5,7 +5,7 @@
 
 **#Major: Mathematics**
 
-**Sophomore**
+**#Sophomore**
 
 ### Contact
 
