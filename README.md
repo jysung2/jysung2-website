@@ -7,9 +7,11 @@
 
 **Sophomore**
 
-**#jysung2@illinois.edu**
+### Contact
 
-**#571-550-0562**
+email: jysung2@illinois.edu
+
+Phone: 571-550-0562
 
 Hello, my name is Jae Yoon Sung and I am an undergradute mathematics student at the Universrity of Illinois at Urbana-Champaign.
 
@@ -20,7 +22,7 @@ Hello, my name is Jae Yoon Sung and I am an undergradute mathematics student at 
 
 ```
 
-### Contact
+
 As Kanye West said:
 
 > We're living the future so
